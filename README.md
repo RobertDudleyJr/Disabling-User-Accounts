@@ -12,8 +12,7 @@ This tutorial outlines the prerequisites and installation steps for disabling a 
 
 <h2>Environments and Technologies Used</h2>
 
-- Active Directory (Testing Results)
-- Group Policy Management
+- Active Directory
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)

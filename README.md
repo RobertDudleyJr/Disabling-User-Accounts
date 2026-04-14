@@ -2,8 +2,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory logo"/>
 </p>
 
-<h1>AD-Group Policy Management - Lockout User Accounts </h1>
-This tutorial outlines the prerequisites and installation steps for configuring Group Policy to lock out a user's account after a set number of attempts. In this tutorial, we will be setting that number to 5 attempts .<br />
+<h1>Active Directory - Disabling User Accounts </h1>
+This tutorial outlines the prerequisites and installation steps for disabling a user's account via Active Directory. By disabling a user's account in Active Directory, you prevent them from logging in to a computer on your network. There can be a number of reasons why you would want to do this, but the most obvious reason that comes to mind is disabling a user's account after termination of employment.<br />
 
 
 <h2>Video Demonstration</h2>

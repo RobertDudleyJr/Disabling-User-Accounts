@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory - Disabling User Accounts </h1>
-This tutorial outlines the prerequisites and installation steps for disabling a user's account via Active Directory. By disabling a user's account in Active Directory, you prevent them from logging into a computer on your network. There can be several reasons to do this, but the most obvious is disabling a user's account after termination of employment.<br />
+This tutorial outlines the prerequisites and installation steps for disabling a user's account via Active Directory. By disabling a user's account, you prevent them from logging into a computer on your network. There can be several reasons to do this, but the most obvious is disabling a user's account after termination of employment.<br />
 
 
 <h2>Video Demonstration</h2>

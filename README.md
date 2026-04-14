@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation steps for disabling a 
 <h2>Confirguration Steps</h2>
 
 <p>
-<img src="https://static.wixstatic.com/media/695ae6_e2769fe5184f40899325befe6dc2e52a~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AD-1.png" height="80%" width="80%" alt="Step1"/>
+<img src="https://static.wixstatic.com/media/695ae6_210e0569c2164191a13a443562edc57d~mv2.png/v1/fill/w_600,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/695ae6_210e0569c2164191a13a443562edc57d~mv2.png" height="80%" width="80%" alt="Step1"/>
 </p>
 <p>
 Open the Group Policy Management Console (GPMC). This can be done by searching gpmc.msc in the run window. 
@@ -37,7 +37,7 @@ Open the Group Policy Management Console (GPMC). This can be done by searching g
 <br />
 
 <p>
-<img src="https://static.wixstatic.com/media/695ae6_ff8192023b6a469598561363db1c16b7~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AD-2.png" height="80%" width="80%" alt="step2"/>
+<img src="https://static.wixstatic.com/media/695ae6_8ef0537529b64f438fbe28662079ee1a~mv2.png/v1/fill/w_600,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/695ae6_8ef0537529b64f438fbe28662079ee1a~mv2.png" height="80%" width="80%" alt="step2"/>
 </p>
 <p>
 Edit Default Domain Policy.
@@ -45,7 +45,7 @@ Edit Default Domain Policy.
 <br />
 
 <p>
-<img src="https://static.wixstatic.com/media/695ae6_bb1833a631934583997178354dea0e58~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AD-3.png" height="80%" width="80%" alt="Step3"/>
+<img src="https://static.wixstatic.com/media/695ae6_06a19cd3d398419eade6aa690eeffea0~mv2.png/v1/fill/w_600,h_351,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/695ae6_06a19cd3d398419eade6aa690eeffea0~mv2.png" height="80%" width="80%" alt="Step3"/>
 </p>
 <p>
 Navigate to the Account Lockout Policy Settings.
@@ -53,7 +53,7 @@ Navigate to the Account Lockout Policy Settings.
 <br />
 
 <p>
-<img src="https://static.wixstatic.com/media/695ae6_9423019c0725472cab660ce21b17e291~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AD-4.png" height="80%" width="80%" alt="Step4"/>
+<img src="https://static.wixstatic.com/media/695ae6_ded38a293c5c4585bcc5833bc3d9bdbc~mv2.png/v1/fill/w_600,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/695ae6_ded38a293c5c4585bcc5833bc3d9bdbc~mv2.png" height="80%" width="80%" alt="Step4"/>
 </p>
 <p>
 Configure Account Lockout Policy Settings.

@@ -8,7 +8,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>N/A</p>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
